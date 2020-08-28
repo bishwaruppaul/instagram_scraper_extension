@@ -5,8 +5,8 @@ The instagram-scraper python package lets you search for and download photos fro
 
 For my own use I require locations where the photos were taken, along with the link for the photos. I also require the filenames of the photos, which are a part of the URL by default.
 
-To obtain these information, one needs to run this command in the terminal:
+To obtain these information along with the photos, one needs to run this command in the terminal:
 
 `instagram-scraper <KEYWORD> --tag --media-metadata --include-location`
 
-This R code lets you go through the JSON file with the photo details, and save the details as a CSV file. 
+The R code in this repository lets you go through the JSON file with the photo details, and save the details as a CSV file. 
