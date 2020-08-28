@@ -1,5 +1,5 @@
 # instagram_scraper_extension
-### An R extension for tidying details of the photos obtained using the Python package [instagram-scraper](https://github.com/arc298/instagram-scraper)
+### An R extension for tidying details of the photos obtained using the Python package [instagram-scraper](https://github.com/arc298/instagram-scraper) by arc298.
 
 The instagram-scraper python package lets you search for and download photos from Instagram, along with a JSON file with the details of the photos. 
 
